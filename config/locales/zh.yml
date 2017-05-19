@@ -1,0 +1,26 @@
+zh:
+  label_custom_report_plural: "自定义报告"
+  label_custom_report_view_all: "显示所有报告"
+  label_custom_report_new: "创建新的自定义报告"
+  label_custom_report_public_list: "发布新报告"
+  label_custom_report_own_list: "我的自定义报告"
+  label_custom_report_edit: "编辑自定义报告"
+  label_series_filters: "过滤选项"
+
+  label_chart_type_undev_pie: "不规则饼图"
+  label_chart_type_pie: "饼图"
+  label_chart_type_donut: "环型图"
+  label_chart_type_bar: "离散条形图"
+  label_chart_type_horizontal_bar: "水平条形图"
+  label_chart_type_stacked_bar: "堆栈条形图"
+
+  field_chart_type: "图形类型"
+  field_null_text: "空值显示文本"
+  field_series_name: "字段名称"
+
+  message_custom_reports_created: "自定义报告创建成功"
+  message_custom_reports_updated: "自定义报告更新成功"
+  message_custom_reports_destroyed: "自定义报告删除成功"
+  message_cant_delete_last_series: "自定义报告必须包含一个图形!"
+  message_add_custom_report_series: "添加新的图形"
+  message_remove_custom_report_series: "移除一个图形"
